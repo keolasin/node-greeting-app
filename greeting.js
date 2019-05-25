@@ -6,4 +6,10 @@ exports.greetingJapanese = function(){
   console.log("Konichiwa");
 }
 
-exports = "Hola";
+exports.greetingSpanish = function(){
+  console.log("Bienvenidos");
+}
+
+exports.greetingIcelandic = function(){
+  console.log("Hallo");
+}
